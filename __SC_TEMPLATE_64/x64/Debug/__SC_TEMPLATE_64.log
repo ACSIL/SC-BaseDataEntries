@@ -1,0 +1,12 @@
+﻿  delta v baru.cpp
+c:\users\experimental\disk google\c++\__sierrachart_repository\64 reverz volatility\__sc_template_64\delta v baru.cpp(381): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\experimental\disk google\c++\__sierrachart_repository\64 reverz volatility\__sc_template_64\delta v baru.cpp(447): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\experimental\disk google\c++\__sierrachart_repository\64 reverz volatility\__sc_template_64\delta v baru.cpp(448): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\experimental\disk google\c++\__sierrachart_repository\64 reverz volatility\__sc_template_64\delta v baru.cpp(449): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\experimental\disk google\c++\__sierrachart_repository\64 reverz volatility\__sc_template_64\delta v baru.cpp(499): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\experimental\disk google\c++\__sierrachart_repository\64 reverz volatility\__sc_template_64\delta v baru.cpp(500): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\experimental\disk google\c++\__sierrachart_repository\64 reverz volatility\__sc_template_64\delta v baru.cpp(501): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     Creating library C:\SierraChart_VS\Data\DELTA V BARU.lib and object C:\SierraChart_VS\Data\DELTA V BARU.exp
+delta v baru.obj : error LNK2019: unresolved external symbol _CrtDbgReportW referenced in function "void * __cdecl std::_Allocate(unsigned __int64,unsigned __int64,bool)" (?_Allocate@std@@YAPEAX_K0_N@Z)
+libcpmtd.lib(stdthrow.obj) : error LNK2001: unresolved external symbol _CrtDbgReportW
+C:\SierraChart_VS\Data\DELTA V BARU.dll : fatal error LNK1120: 1 unresolved externals
